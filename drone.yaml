@@ -1,0 +1,5 @@
+train: C:/Dev/DroneKiller/drone_yolo/images/train
+val: C:/Dev/DroneKiller/drone_yolo/images/val
+
+nc: 1
+names: ['drone']
